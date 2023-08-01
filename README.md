@@ -34,5 +34,9 @@ More info about dataset can be found here:
 ## Data Model
 <img src="data_model.jpeg">
 
-## Complete Video Tutorial 
-Video Link - https://youtu.be/WpQECq5Hx9g
+Final Dashboard:
+![Screenshot (1765)](https://github.com/Pistonamey/uber_data_etl/assets/83175234/b5b44b92-b660-417c-9524-e026900c5688)
+![Screenshot (1764)](https://github.com/Pistonamey/uber_data_etl/assets/83175234/97f038ef-415f-4303-bbca-2f513623256a)
+
+
+
